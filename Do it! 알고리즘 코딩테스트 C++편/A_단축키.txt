@@ -1,0 +1,42 @@
+Visual Studio 단축키
+
+1. 주요 편집 단축키
+Ctrl + S: 현재 파일 저장
+Ctrl + C : 복사
+Ctrl + X : 잘라내기
+Ctrl + V : 붙여넣기
+Ctrl + Z : 실행 취소
+Ctrl + Y : 다시 실행
+Ctrl + F : 찾기
+Ctrl + H : 찾기 및 바꾸기
+Ctrl + D : 현재 선택과 일치하는 다음 항목 찾기
+Ctrl + Shift + L : 현재 줄 삭제
+
+2. 코드 편집 단축키
+Ctrl + Space : IntelliSense(자동 완성) 활성화
+F12 : 선언으로 이동
+Ctrl + -: 이전 위치로 이동
+Ctrl + Shift + -: 다음 위치로 이동
+Ctrl + . : Quick Actions 및 Refactorings 표시
+Ctrl + / : 주석 토글
+Ctrl + K + C : 선택 영역 주석 처리
+Ctrl + K + U : 선택 영역 주석 처리 취소
+Ctrl + K + D : 코드 자동 정렬
+
+3. 디버깅 단축키
+F5 : 디버깅 시작
+F9 : 중단점 설정 / 해제
+F10 : 한 단계씩 코드 실행(단계별 실행)
+F11 : 함수 호출 내부로 들어가기(단계별 실행)
+Shift + F11 : 함수 호출 빠져나오기(단계별 실행)
+
+4. 소스 제어 단축키
+Ctrl + K + C : 선택된 텍스트 주석 처리
+Ctrl + K + U : 선택된 텍스트 주석 처리 해제
+Ctrl + K + S : 소스 제어 창 열기
+
+5. 기타 단축키
+Ctrl + Tab : 열린 파일들 사이에서 전환
+Ctrl + Shift + Tab : 열린 파일들 사이에서 역순으로 전환
+Ctrl + Shift + B : 솔루션 빌드
+Ctrl + F5 : 디버깅 없이 시작
