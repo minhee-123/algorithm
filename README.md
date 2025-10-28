@@ -58,3 +58,12 @@ bool operator의 return은 두 값 중 어떤 값이 더 우선순위가 낮은�
 sort는 true가 그대로 적용, priority queue는 true가 뒤로 밀림 (우선순위 낮음, 반대로 적용된다고 생각)
 
 ---
+
+##### 📖 1차원 index를 2차원 값으로 변환 / 2차원 값을 1차원 index로 변환
+1차원의 index를 2차원 값으로 변환 (M은 열의 개수(columns))
+- row = index / M
+- col = index % M
+2차원 값을 1차원 index로 변환 (M은 열의 개수(columns))
+- index = (row * M) + col
+
+---
