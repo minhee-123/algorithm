@@ -18,6 +18,8 @@
 <br>
 
 ### 📍 선형 (연속) 컨테이너
+<br>
+
 #### 1️⃣ 배열 (Array)
 같은 자료형의 변수를 일렬로 저장하는 자료구조
 
@@ -175,6 +177,8 @@ lt.splice(pos, lt2);  // lt2를 pos 위치에 잘라붙이기
 <br>
 
 ### 📍 비선형 (연관) 컨테이너
+<br>
+
 #### 1️⃣ 맵 (Map) & 해시맵 (Unordered Map)
 
 - **Header**: `#include <map>` (맵) `#include <unordered_map>` (해시맵)
