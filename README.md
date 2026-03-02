@@ -386,4 +386,3 @@ sort는 true가 그대로 적용, priority queue는 true가 뒤로 밀림 (우�
 2차원 값을 1차원 index로 변환 (M은 열의 개수(columns))
 - index = (row * M) + col
 <br>
-
